@@ -56,7 +56,7 @@ I enjoy turning complex requirements into clean, scalable solutions.
 
 ## 📫 Connect With Me
 
-* GitHub: [https://github.com/your-username](https://github.com/collins-gikungu)
+* GitHub: (https://github.com/collins-gikungu)
 * LinkedIn: (https://www.linkedin.com/in/collins-gikungu-/)
 
 ⭐ Feel free to explore my repositories and connect!
