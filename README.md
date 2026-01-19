@@ -14,6 +14,7 @@ I'm a passionate developer focused on building **real-world systems** including:
 * Payroll & Reporting Systems
 * Business Central Extensions (AL) 
 * Machine Learning projects (Fake News Detection)
+* Decentralized Applications(Dapps)
 
 I enjoy turning complex requirements into clean, scalable solutions.
 
