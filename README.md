@@ -61,3 +61,4 @@ I enjoy turning complex requirements into clean, scalable solutions.
 * LinkedIn: (https://www.linkedin.com/in/collins-gikungu-/)
 
 ⭐ Feel free to explore my repositories and connect!
+😊 Looking forward to meaningful connections 
