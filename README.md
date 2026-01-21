@@ -2,6 +2,7 @@
 
 🎓 Software Developer | Backend & Full-Stack Enthusiast
 💻 Node.js • React • PostgreSQL • Python • AL (Business Central)
+• Machine Learning • Data Science 
 📍 Kenya
 
 ---
