@@ -92,9 +92,6 @@ open_to:
 
 ---
 
-```
-```
-````markdown
 # 🛠️ Developer Toolbox
 
 <div align="center">
@@ -169,7 +166,6 @@ When building applications, I strive to:
 
 # 🌱 Currently Learning
 
-```text
 ☁️ AWS Cloud Computing
 
 🐳 Docker
@@ -185,7 +181,6 @@ When building applications, I strive to:
 🔄 CI/CD Fundamentals
 
 📊 Advanced PostgreSQL
-```
 
 ---
 
@@ -218,7 +213,7 @@ When building applications, I strive to:
 
 # 💡 What I'm Passionate About
 
-```text
+
 🚀 Full Stack Development
 
 🏢 Enterprise Software
@@ -234,11 +229,8 @@ When building applications, I strive to:
 🔒 Secure API Development
 
 📱 Building Software That Solves Real Problems
-```
 
 ---
-````
-```markdown
 # 🚀 Featured Projects
 
 > Here are some of the projects I've built to strengthen my skills in full stack development, enterprise software, backend engineering, and data-driven applications.
@@ -429,5 +421,5 @@ Across all my projects, I focus on applying software engineering best practices 
 - 📚 Continuous Learning
 
 ---
-```
+
 
