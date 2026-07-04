@@ -95,3 +95,148 @@ open_to:
 
 ```
 ```
+````markdown
+# 🛠️ Developer Toolbox
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,java,python,cs,html,css"/>
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb"/>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes"/>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
+
+</div>
+
+> **Enterprise Development:** Microsoft Business Central AL • ERP Customization • Workflow Automation • Role Centers • No. Series
+
+> **API Testing:** Thunder Client
+
+> **Database Tools:** pgAdmin
+
+> **Currently Exploring:** Solidity • Smart Contracts • Blockchain Development
+
+---
+
+# 📊 Technology Matrix
+
+| Category | Technologies |
+|-----------|--------------|
+| 💻 Languages | JavaScript • Java • Python • C# • HTML5 • CSS3 |
+| 🎨 Frontend | React • Tailwind CSS • Vite • Responsive Design |
+| ⚙ Backend | Node.js • Express.js • REST APIs |
+| 🗄 Database | PostgreSQL • MongoDB |
+| 🔐 Authentication | JWT |
+| 🏢 Enterprise | Microsoft Business Central AL |
+| ☁ Cloud | AWS (Learning) • Docker • Kubernetes |
+| 🌐 Blockchain | Solidity (Learning) • Smart Contracts |
+| 🔧 Tools | VS Code • Git • GitHub • Thunder Client • pgAdmin |
+
+---
+
+# 📈 Engineering Philosophy
+
+I believe software engineering is more than writing code—it's about solving problems with thoughtful architecture, clean implementation, and a focus on delivering value.
+
+When building applications, I strive to:
+
+- 🧩 Design modular and maintainable systems
+- 📈 Build scalable backend architectures
+- 🔐 Prioritize security and authentication
+- 🎨 Create intuitive user experiences
+- 🚀 Continuously improve performance
+- 📚 Learn and apply modern technologies
+- 🤝 Collaborate and share knowledge
+
+---
+
+# 🌱 Currently Learning
+
+```text
+☁️ AWS Cloud Computing
+
+🐳 Docker
+
+⚙ Kubernetes
+
+🌐 Blockchain Development
+
+📜 Smart Contracts (Solidity)
+
+🏗 Cloud Architecture
+
+🔄 CI/CD Fundamentals
+
+📊 Advanced PostgreSQL
+```
+
+---
+
+# 🗺️ Career Journey
+
+| Year | Milestone |
+|------|-----------|
+| 🎓 2021 | Started Bachelor of Science in Software Development |
+| 💼 2025 | Software Development Internship at Impax Business Solutions |
+| 🏢 2025 | Developed Microsoft Business Central AL Solutions |
+| 🎓 2025 | Graduated with BSc in Software Development |
+| 🚴 2026 | Built Spin Tracker Analytics Platform |
+| 👨‍💻 2026 | Developed Enterprise Full Stack Applications |
+| ☁️ 2026 | Started Cloud Engineering Journey |
+| 🌐 2026 | Began Building Web3 Applications |
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build production-ready Full Stack applications
+- ☁️ Earn AWS Cloud certifications
+- 🐳 Master Docker & Kubernetes
+- 🌐 Launch Web3 projects
+- 🤝 Contribute to Open Source
+- 📖 Continue learning modern software architecture
+- 🚀 Strengthen backend engineering expertise
+
+---
+
+# 💡 What I'm Passionate About
+
+```text
+🚀 Full Stack Development
+
+🏢 Enterprise Software
+
+☁️ Cloud Computing
+
+🌐 Web3
+
+📊 Data Visualization
+
+⚡ Backend Engineering
+
+🔒 Secure API Development
+
+📱 Building Software That Solves Real Problems
+```
+
+---
+````
+
