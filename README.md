@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,25,30&text=Collins%20Gikungu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -239,4 +238,196 @@ When building applications, I strive to:
 
 ---
 ````
+```markdown
+# 🚀 Featured Projects
+
+> Here are some of the projects I've built to strengthen my skills in full stack development, enterprise software, backend engineering, and data-driven applications.
+
+---
+
+# 🚴 Spin Tracker App
+
+> **A modern full-stack fitness analytics platform for indoor cycling enthusiasts.**
+
+### 🛠️ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgresql"/>
+
+</p>
+
+**Additional Technologies**
+
+- JWT Authentication
+- Recharts
+- REST APIs
+- Tailwind CSS
+- Thunder Client
+
+### 📖 Overview
+
+Spin Tracker is a data-driven fitness platform that enables users to record cycling sessions, visualize workout progress, monitor performance metrics, and gain actionable insights through interactive dashboards.
+
+### ✨ Highlights
+
+- 🔐 Secure JWT Authentication
+- 📊 Interactive Analytics Dashboard
+- 📈 Weekly & Monthly Performance Charts
+- 🔥 Workout History
+- 🏆 Achievement Tracking
+- 💡 Fitness Insights Engine
+- 🌙 Dark & Light Theme
+- 📱 Responsive UI
+- ⚡ Real-time Statistics
+
+### 🏗️ Engineering Highlights
+
+- Modular React architecture
+- RESTful API design
+- PostgreSQL relational database
+- Secure authentication workflow
+- Interactive data visualization
+- Responsive dashboard design
+- Scalable backend structure
+
+**Repository:** *(Add Spin Tracker repository link)*
+
+---
+
+# 👨‍💼 Employee Shift & Attendance Management System
+
+> **Enterprise workforce management application for employee scheduling and attendance tracking.**
+
+### 🛠️ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgresql"/>
+
+</p>
+
+### 📖 Overview
+
+A full-stack workforce management system that streamlines employee scheduling, attendance tracking, payroll preparation, and administrative reporting through a secure and scalable architecture.
+
+### ✨ Highlights
+
+- Employee Management
+- Shift Scheduling
+- Attendance Tracking
+- Payroll Integration
+- JWT Authentication
+- Dashboard Analytics
+- RESTful APIs
+- PostgreSQL Database
+
+### 🏗️ Engineering Highlights
+
+- Secure authentication
+- CRUD API development
+- Database relationship design
+- Modular backend architecture
+- Enterprise workflow implementation
+- Error handling & validation
+
+**Repository:** *(Add Shift System repository link)*
+
+---
+
+# 🎓 Student Management System
+
+> **Enterprise ERP solution developed using Microsoft Business Central AL.**
+
+### 🛠️ Technologies
+
+- Microsoft Business Central
+- AL Language
+- ERP Development
+- Business Workflows
+
+### 📖 Overview
+
+A custom student management solution built within Microsoft Business Central, automating registration processes, number series generation, validations, and role-based workflows.
+
+### ✨ Highlights
+
+- Student Registration
+- No. Series Automation
+- Student Profiles
+- Custom Tables
+- Custom Pages
+- Role Centers
+- Approval Workflows
+- Business Logic Validation
+
+### 🏗️ Engineering Highlights
+
+- AL development
+- ERP customization
+- Business process automation
+- Workflow configuration
+- Enterprise software architecture
+
+> *This project was developed during my Software Development Internship at Impax Business Solutions.*
+
+---
+
+# 🌐 Personal Portfolio Website
+
+> **A modern developer portfolio focused on showcasing projects, skills, and professional growth.**
+
+### Planned Features
+
+- Responsive Design
+- Modern UI/UX
+- Framer Motion Animations
+- Tailwind CSS
+- Project Showcase
+- Contact Section
+- Blog Support *(Future)*
+
+**Status:** 🚧 Currently in Development
+
+---
+
+# ⛓️ Web3 Projects
+
+> **Exploring decentralized technologies and blockchain development through practical projects.**
+
+### Currently Learning
+
+- Solidity
+- Smart Contracts
+- Wallet Integration
+- Web3 APIs
+- Decentralized Applications (dApps)
+
+### Future Projects
+
+- NFT Marketplace
+- DeFi Dashboard
+- Crypto Portfolio Tracker
+- Web3 Authentication
+- Smart Contract Utilities
+
+---
+
+# 📊 Engineering Principles
+
+Across all my projects, I focus on applying software engineering best practices such as:
+
+- 🧩 Modular Architecture
+- ⚙️ Clean Code Principles
+- 🔐 Secure Authentication
+- 📈 Scalable Backend Design
+- 🗄️ Efficient Database Modeling
+- 🌐 RESTful API Development
+- 📱 Responsive User Interfaces
+- 🚀 Performance Optimization
+- 🧪 Testing & Debugging
+- 📚 Continuous Learning
+
+---
+```
 
