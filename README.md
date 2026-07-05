@@ -634,6 +634,161 @@ That philosophy influences every project I build and every technology I choose t
 
 ---
 ````
+````markdown
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=collins-gikungu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collins-gikungu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=collins-gikungu&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=collins-gikungu&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=collins-gikungu&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌟 Current Focus
+
+```text
+🚀 Building Production-Ready Full Stack Applications
+
+☁️ Advancing Cloud Engineering Skills
+
+🌐 Exploring Blockchain & Web3 Technologies
+
+📚 Continuously Learning Modern Software Architecture
+
+🤝 Contributing to Open Source Projects
+```
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/collins-gikungu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/collins-gikungu-/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gikungu2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://buymeacoffee.com/collinsgikungu">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000"/>
+</a>
+
+</div>
+
+---
+
+# 💜 Support My Work
+
+If you enjoy my projects or find them helpful, consider supporting my work.
+
+Your support helps me continue building open-source projects, learning new technologies, and creating software that solves real-world problems.
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/collinsgikungu">
+<img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 📌 Featured Repositories
+
+⭐ **Spin Tracker App** — Full Stack Fitness Analytics Platform
+
+⭐ **Employee Shift & Attendance Management System** — Workforce Management Solution
+
+⭐ **Student Management System** — Microsoft Business Central AL
+
+⭐ **Developer Portfolio** *(Coming Soon)*
+
+⭐ **Web3 Projects** *(Coming Soon)*
+
+---
+
+# 🌍 Looking Ahead
+
+I'm committed to continuous growth as a software engineer by building impactful projects, embracing new technologies, and contributing to the developer community.
+
+My current roadmap includes:
+
+- ☁️ AWS Cloud Certifications
+- 🐳 Docker & Kubernetes
+- 🌐 Web3 & Blockchain Development
+- 🚀 Open Source Contributions
+- 💼 Enterprise Software Engineering
+
+---
+
+# 💭 Favorite Quote
+
+<div align="center">
+
+> **"Turning complex ideas into usable, scalable software."**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+If you enjoy my work, consider following my journey and checking out my repositories.
+
+Let's build something amazing together. 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,25,30"/>
+
+</div>
+````
 
 
 
