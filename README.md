@@ -421,7 +421,6 @@ Across all my projects, I focus on applying software engineering best practices 
 - 📚 Continuous Learning
 
 ---
-````markdown
 # 💼 Professional Experience
 
 ## 🏢 Software Development Intern
@@ -447,7 +446,6 @@ Across all my projects, I focus on applying software engineering best practices 
 
 ### 🧠 Skills Developed
 
-```text
 ✔ Microsoft Business Central AL
 
 ✔ Enterprise Software Development
@@ -463,7 +461,6 @@ Across all my projects, I focus on applying software engineering best practices 
 ✔ Solution Design
 
 ✔ Problem Solving
-```
 
 ---
 
@@ -574,7 +571,6 @@ I'm actively investing time in expanding my expertise across:
 
 # 📅 Career Roadmap
 
-```text
 2021
 🎓 Started BSc Software Development
 
@@ -614,7 +610,6 @@ Future
 🌍 Open Source Contributor
 
 🚀 Building Products Used Worldwide
-```
 
 ---
 
