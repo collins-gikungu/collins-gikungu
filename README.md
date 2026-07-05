@@ -633,8 +633,6 @@ Outside of software development, I enjoy:
 That philosophy influences every project I build and every technology I choose to learn.
 
 ---
-````
-````markdown
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -679,7 +677,6 @@ That philosophy influences every project I build and every technology I choose t
 
 # 🌟 Current Focus
 
-```text
 🚀 Building Production-Ready Full Stack Applications
 
 ☁️ Advancing Cloud Engineering Skills
@@ -689,7 +686,6 @@ That philosophy influences every project I build and every technology I choose t
 📚 Continuously Learning Modern Software Architecture
 
 🤝 Contributing to Open Source Projects
-```
 
 ---
 
@@ -788,7 +784,7 @@ Let's build something amazing together. 🚀
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,25,30"/>
 
 </div>
-````
+
 
 
 
