@@ -421,5 +421,224 @@ Across all my projects, I focus on applying software engineering best practices 
 - 📚 Continuous Learning
 
 ---
+````markdown
+# 💼 Professional Experience
+
+## 🏢 Software Development Intern
+
+### Impax Business Solutions Ltd.
+**May 2025 – August 2025**
+
+> Worked within the Small & Medium Business (SMB) team, contributing to Microsoft Business Central solutions, ERP customization, enterprise software development, and business process automation.
+
+### 🚀 Key Responsibilities
+
+- Developed custom Microsoft Business Central AL solutions
+- Designed and customized ERP tables and pages
+- Built business logic using AL
+- Configured Number Series automation
+- Customized Role Centers
+- Assisted in workflow implementation
+- Performed testing and debugging
+- Participated in ERP deployment and configuration
+- Collaborated with senior developers and consultants
+
+---
+
+### 🧠 Skills Developed
+
+```text
+✔ Microsoft Business Central AL
+
+✔ Enterprise Software Development
+
+✔ ERP Customization
+
+✔ Business Process Automation
+
+✔ Software Debugging
+
+✔ Team Collaboration
+
+✔ Solution Design
+
+✔ Problem Solving
+```
+
+---
+
+### 🌟 Internship Highlights
+
+- Developed enterprise-ready Business Central customizations
+- Worked within a professional software development environment
+- Applied software engineering principles to business applications
+- Gained practical experience in ERP implementation
+
+---
+
+# 🎓 Education
+
+## Bachelor of Science in Software Development
+
+**KCA University**
+
+Graduated: **2025**
+
+### Coursework Highlights
+
+- Software Engineering
+- Database Systems
+- Data Structures & Algorithms
+- Web Development
+- Mobile Application Development
+- Artificial Intelligence
+- Human Computer Interaction
+- Computer Networks
+
+---
+
+# 📜 Certifications
+
+## ✅ Earned
+
+🏅 Agile Project Management Masterclass
+
+- Uzuzi Hub × PMI Kenya
+
+---
+
+🏅 Prompt Engineering
+
+- SoloLearn
+
+---
+
+🏅 Microsoft Business Central AL Development
+
+- Practical Industry Experience
+
+---
+
+## 🎯 Currently Working Towards
+
+☁ AWS Cloud Practitioner
+
+☁ AWS Developer Associate
+
+☁ Docker
+
+☁ Kubernetes
+
+☁ Microsoft Azure Fundamentals
+
+☁ GitHub Foundations
+
+☁ Cisco Networking Certifications
+
+---
+
+# 🏆 Achievements
+
+🥇 Successfully completed Software Development Internship
+
+🥇 Built multiple Full Stack applications
+
+🥇 Developed Microsoft Business Central ERP solutions
+
+🥇 Built secure RESTful APIs
+
+🥇 Designed PostgreSQL database architectures
+
+🥇 Developed modern React dashboards
+
+🥇 Implemented authentication systems
+
+🥇 Built interactive data visualizations
+
+---
+
+# 🌱 Continuous Learning
+
+Technology evolves every day, and I believe great software engineers never stop learning.
+
+I'm actively investing time in expanding my expertise across:
+
+- ☁ Cloud Computing
+- ⚙ DevOps
+- 🌐 Blockchain
+- 🔐 Cybersecurity Fundamentals
+- 🏗 Software Architecture
+- 📊 Data Engineering
+
+---
+
+# 📅 Career Roadmap
+
+```text
+2021
+🎓 Started BSc Software Development
+
+↓
+
+2025
+💼 Software Development Internship
+
+↓
+
+2025
+🎓 Graduated
+
+↓
+
+2026
+🚀 Building Production Full Stack Applications
+
+↓
+
+2026
+☁ Cloud Engineering Journey
+
+↓
+
+2026
+🌐 Web3 Development Journey
+
+↓
+
+Future
+
+🏗 Senior Software Engineer
+
+☁ Cloud Engineer
+
+🌍 Open Source Contributor
+
+🚀 Building Products Used Worldwide
+```
+
+---
+
+# 🤝 Beyond Coding
+
+Outside of software development, I enjoy:
+
+- 📚 Learning emerging technologies
+- 🌐 Exploring Web3 innovations
+- ☁ Expanding cloud engineering skills
+- 🚴 Fitness and data-driven performance tracking
+- 🎮 Gaming
+- 🤝 Collaborating with fellow developers
+
+---
+
+# 💡 My Philosophy
+
+> *"Technology should simplify complexity, empower people, and create meaningful solutions that improve everyday experiences."*
+
+That philosophy influences every project I build and every technology I choose to learn.
+
+---
+````
+
 
 
