@@ -281,7 +281,7 @@ Spin Tracker is a data-driven fitness platform that enables users to record cycl
 - Responsive dashboard design
 - Scalable backend structure
 
-**Repository:** *(Add Spin Tracker repository link)*
+**Repository:** *(https://spinbiketracker.netlify.app/)*
 
 ---
 
