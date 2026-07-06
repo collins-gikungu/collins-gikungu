@@ -52,7 +52,6 @@ Currently, I'm expanding my expertise in **Cloud Computing**, **DevOps**, and **
 
 ## 🎯 Current Focus
 
-```yaml
 building:
   - Spin Tracker Platform
   - Developer Portfolio
@@ -75,7 +74,6 @@ open_to:
   - Backend Engineering
   - Cloud Engineering
   - Open Source Collaboration
-````
 
 ---
 
