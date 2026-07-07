@@ -283,8 +283,8 @@ Spin Tracker is a data-driven fitness platform that enables users to record cycl
 
 **Repository:** *(https://github.com/collins-gikungu/spin-tracker-app)*
 
-**Live:** *
-(https://spinbiketracker.netlify.app/)*
+**Live:** 
+(https://spinbiketracker.netlify.app/)
 
 ---
 
@@ -363,6 +363,7 @@ A custom student management solution built within Microsoft Business Central, au
 - Enterprise software architecture
 
 > *This project was developed during my Software Development Internship at Impax Business Solutions.*
+
 Repository : (https://github.com/collins-gikungu/Student-Management-System-)
 ---
 
