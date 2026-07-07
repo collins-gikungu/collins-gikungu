@@ -364,7 +364,7 @@ A custom student management solution built within Microsoft Business Central, au
 
 > *This project was developed during my Software Development Internship at Impax Business Solutions.*
 
-Repository : (https://github.com/collins-gikungu/Student-Management-System-)
+> Repository : (https://github.com/collins-gikungu/Student-Management-System-)
 ---
 
 # 🌐 Personal Portfolio Website
