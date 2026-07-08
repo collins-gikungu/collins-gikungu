@@ -324,7 +324,7 @@ A full-stack workforce management system that streamlines employee scheduling, a
 - Enterprise workflow implementation
 - Error handling & validation
 
-**Repository:** *(Add Shift System repository link)*
+**Repository:** *(https://github.com/collins-gikungu/employee-shift-attendance-system)*
 
 ---
 
